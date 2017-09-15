@@ -1,0 +1,62 @@
+ table {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-style: normal;
+     text-decoration: none;
+     border-collapse:collapse;
+     border-color: #2e6da4;
+     word-wrap: break-word;
+ }
+
+ .highlight_row {
+     background-color:#cdf;
+ }
+
+ label{
+   font-size: 1.2rem;
+ }
+ 
+ tbody tr:hover {
+     background-color:#cdf;
+ }
+
+ h3{
+     font-family: 'Amatic SC', cursive;
+     font-size: 55px;
+ }
+
+ .panel-body{ margin:5px 5px 5px 5px;width: 100%;}
+ .glyphicon{font-size: 14px;}
+ .glyphicon-plus, .glyphicon-cog{float: right;}
+ a.glyphicon{text-decoration: none;}
+ a.glyphicon-trash{margin-left: 10px;}
+ .none{display: none;}
+
+ th {
+     background-color: #337ab7;
+     color: #FFF;
+ }
+
+ th a:link {
+     text-decoration: none;
+     color: #FFF;
+ }
+
+ th a:visited {
+     text-decoration: none;
+     color: #FFF;
+ }
+
+ th a:hover {
+     text-decoration: none;
+     color: #FFF;
+ }
+
+ th a:active {
+     text-decoration: none;
+     color: #FFF;
+ }
+
+ th, td{
+     padding: 2px;
+ }
